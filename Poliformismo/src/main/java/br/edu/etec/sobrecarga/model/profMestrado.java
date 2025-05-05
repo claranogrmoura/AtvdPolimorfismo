@@ -11,7 +11,7 @@ package br.edu.etec.sobrecarga.model;
 public class profMestrado {
     private int artigos;
 
-    public ProfessorMestrado(String nome, int disciplinas, int artigos) {
+    public profMestrado(String nome, int disciplinas, int artigos) {
         super(nome, disciplinas);
         this.artigos = artigos;
     }
