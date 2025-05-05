@@ -13,7 +13,7 @@ public class profGraduacao {
     public int disciplinas;
     public final double salarioBruto = 25000.00;
 
-    public ProfessorGraduacao(String nome, int disciplinas) {
+    public profGraduacao(String nome, int disciplinas) {
         this.nome = nome;
         this.disciplinas = disciplinas;
     }
